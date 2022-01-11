@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "dist", // where to put the TS files
+    "target": "ESNEXT" // which level of JS support to target
+    // "module": "CommonJS", // node env
+  },
+  "include": ["src"] // which files to compile
+}
